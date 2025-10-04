@@ -10,7 +10,7 @@ This project is a deep dive into Exploratory Data Analysis (EDA) using a dataset
 
 ---
 
-### 🛠️ Tech Stack & Libraries
+###  Tech Stack & Libraries
 
 This analysis was performed using Python and the following key libraries:
 * Pandas (for data manipulation)
