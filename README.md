@@ -19,7 +19,7 @@ This analysis was performed using Python and the following key libraries:
 
 ---
 
-### 📂 Repository Contents
+###  Repository Contents
 
 * **`Spotify main.ipynb`**: The main Jupyter Notebook containing all the code, visualizations, and detailed findings.
 * **`Spotify main.pdf`**: A presentation that summarizes the key insights and business recommendations from the analysis.
@@ -29,7 +29,7 @@ This analysis was performed using Python and the following key libraries:
 
 ---
 
-### 📈 Key Insights & Findings
+###  Key Insights & Findings
 
 Our deep-dive analysis of the Spotify dataset yielded several key insights:
 
@@ -43,7 +43,7 @@ Our deep-dive analysis of the Spotify dataset yielded several key insights:
 
 ---
 
-### 🚀 Business Recommendations
+###  Business Recommendations
 
 Based on the findings, we propose the following data-driven recommendations:
 
