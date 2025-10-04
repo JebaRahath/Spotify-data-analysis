@@ -15,7 +15,7 @@ This project is a deep dive into Exploratory Data Analysis (EDA) using a dataset
 This analysis was performed using Python and the following key libraries:
 * Pandas (for data manipulation)
 * Matplotlib & Seaborn (for data visualization)
-* Scikit-learn (for machine learning - clustering, PCA, and predictive modeling)
+
 
 ---
 
@@ -28,7 +28,23 @@ This analysis was performed using Python and the following key libraries:
 * **`README.md`**: This summary file.
 
 ---
+###  Key Factors 
 
+Our comprehensive analysis focused on the following critical features from the Spotify dataset:
+
+  * **Popularity:** The primary target variable, indicating a song's overall success.
+    * **Danceability:** How suitable a track is for dancing.
+    * **Energy:** Perceived intensity and activity.
+    * **Acousticness:** Confidence measure of whether the track is acoustic.
+    * **Valence:** Musical positiveness conveyed by the track.
+    * **Tempo:** The overall estimated tempo of a track in beats per minute (BPM).
+    * **Duration:** The length of the track.
+    * **Loudness:** The overall loudness of a track in decibels (dB).
+    * **Mode:** Indicates the modality (major or minor) of a track.
+    * **Key:** The estimated overall key of the track.
+    * **Artist Information:** Details pertaining to the track's artist.
+
+---
 ###  Key Insights & Findings
 
 Our deep-dive analysis of the Spotify dataset yielded several key insights:
@@ -50,6 +66,7 @@ Based on the findings, we propose the following data-driven recommendations:
 * **For Artists & Labels:** Focus on the "hit formula." Prioritize **high-energy and powerfully produced tracks** to maximize commercial potential. Use the predictive model as a screening tool to identify demos with the highest sonic chance of success.
 * **For Playlist Curators:** Look beyond genre. **Capitalize on the "golden era"** by creating and promoting 1970s "throwback" playlists. Use the data-driven "sonic profiles" (e.g., "happy and energetic") from our clustering analysis to create more effective mood-based playlists.
 * **For Marketing Teams:** Market the "vibe." Launch campaigns based on a song's specific sonic profile to better connect with the listener's context, promoting high-energy tracks for parties and mellow tracks for focus or relaxation.
+  ---
   ###  Conclusion
 
 This Exploratory Data Analysis successfully dissected the complex attributes of the Spotify music catalog to answer our core question: "What makes a song a hit?" We moved beyond subjective opinion to find objective, data-driven patterns.
