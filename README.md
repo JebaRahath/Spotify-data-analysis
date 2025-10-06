@@ -33,16 +33,21 @@ This analysis was performed using Python and the following key libraries:
 Our comprehensive analysis focused on the following critical features from the Spotify dataset:
 
   * **Popularity:** The primary target variable, indicating a song's overall success.
-    * **Danceability:** How suitable a track is for dancing.
-    * **Energy:** Perceived intensity and activity.
-    * **Acousticness:** Confidence measure of whether the track is acoustic.
-    * **Valence:** Musical positiveness conveyed by the track.
-    * **Tempo:** The overall estimated tempo of a track in beats per minute (BPM).
-    * **Duration:** The length of the track.
-    * **Loudness:** The overall loudness of a track in decibels (dB).
-    * **Mode:** Indicates the modality (major or minor) of a track.
-    * **Key:** The estimated overall key of the track.
-    * **Artist Information:** Details pertaining to the track's artist.
+* **Danceability:** How suitable a track is for dancing.
+* **Energy:** Perceived intensity and activity.
+* **Acousticness:** Confidence measure of whether the track is acoustic.
+* **Valence:** Musical positiveness conveyed by the track.
+* **Tempo:** The overall estimated tempo of a track in beats per minute (BPM).
+* **Duration:** The length of the track.
+* **Loudness:** The overall loudness of a track in decibels (dB).
+* **Speechiness:** The presence of spoken words in the track.
+* **Liveness:** The presence of an audience in the recording.
+* **Instrumentalness:** Predicts whether a track contains no vocals.
+* **Mode:** Indicates the modality (major or minor) of a track.
+* **Key:** The estimated overall key of the track.
+* **Time Signature:** An estimated overall time signature of a track.
+* **Language:** The primary language detected in the track.
+* **Artist Information:** Details pertaining to the track's artist.
 
 ---
 ###  Key Insights & Findings
